@@ -1,5 +1,5 @@
-<h3 align="center">💻 Web Developer - Backend 💻</h3>
-
+<hr/>
+<h3 align="center">🖥 Desenvolvedor Web - Backend</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djonatant&label=Views&color=b18198&style=flat" alt="djonatant" /> </p>
 <hr/>
 <h3 align="left">💼 Competências:</h3>
